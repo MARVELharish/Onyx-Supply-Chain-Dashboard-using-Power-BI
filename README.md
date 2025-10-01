@@ -4,6 +4,10 @@ This project showcases an interactive **Power BI Dashboard** analyzing business 
 
 🔗 **Live Dashboard:** [View Power BI Report](https://app.fabric.microsoft.com/groups/6d528f75-8199-440a-b990-6d6fb811648b/reports/8e3156c9-38fa-47f3-9084-43f4254483bc/011386b08628df438ee5?experience=fabric-developer)  
 
+## 📊 Dashboard Preview
+<img width="899" height="1585" alt="Screenshot 2024-11-09 114511" src="https://github.com/user-attachments/assets/c1e326c8-c99e-4665-90ec-c823f94deb9b" />
+
+
 ---
 
 ## 🚀 Tech Stack
